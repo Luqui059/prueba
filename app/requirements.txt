@@ -9,5 +9,5 @@ MarkupSafe==2.1.1
 PyMySQL==1.0.2
 requests==2.26.0
 SQLAlchemy==1.4.36
-Werkzeug==2.1.2
+Werkzeug==2.2.3
 zipp==3.8.0
